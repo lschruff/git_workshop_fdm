@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Erstellt von: Lara Schruff"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website für Git-Workshop-Repo",
+    "section": "",
+    "text": "Heute schreiben wir eine Website für unser Git-Repo mit Quarto.\nHier wird ein Bild eingefügt:\n\n\n\nNoble Numbat\n\n\nUnd dann verlinken wir hier eine Datei aus unserem Projekt."
+  }
+]
