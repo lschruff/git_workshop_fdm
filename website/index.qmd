@@ -7,5 +7,3 @@ Heute schreiben wir eine Website für unser Git-Repo mit Quarto.
 Hier wird ein Bild eingefügt:
 
 ![Noble Numbat](/img/noble_numbat.png)
-
-Und dann verlinken wir [hier](../src/extremely_important_file.xml) eine Datei aus unserem Projekt.
